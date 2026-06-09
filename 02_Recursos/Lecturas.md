@@ -11,25 +11,25 @@ Aquí tienes el inventario completo de la bibliografía del semestre. Asegúrate
 
 ### Principios, Patrones y UML
 - 📘 ![[Adaptive_Code_Gary_McLean_Hall.pdf]] — *Gary McLean Hall*
-- 📘 ![[Larman, Craig - Applying UML and patterns_ an introduction to object-oriented analysis and design and the unified proces (2016, Prentice Hall) - libgen.li.pdf]] — *Craig Larman*
-- 📘 ![[Introduccion_Patrones_Diseno_Oscar_Blancarte.pdf]] — *Oscar Blancarte*
+- 📘 [[Larman, Craig - Applying UML and patterns_ an introduction to object-oriented analysis and design and the unified proces (2016, Prentice Hall) - libgen.li.pdf| Larman, Craig - Applying UML and patterns_]] — *Craig Larman*
+- 📘 [[Introduccion_patrones_diseño.pdf |Introduccion_Patrones_Diseno_Oscar_Blancarte]] — *Oscar Blancarte*
 - 📘 ![[Design_Patterns_GoF.pdf]] — *Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides*
 
 ### Arquitectura de Software
 - 🏛️ ![[Clean_Architecture_Robert_Martin.pdf]] — *Robert C. Martin*
 - 🏛️ ![[Clean_Architecture_with_NET_Dino_Esposito.pdf]] — *Dino Esposito*
-- 🏛️ ![[Clean_Mobile_Architecture_Petros_Efthymiou.pdf]] — *Petros Efthymiou*
+- 🏛️ [[Libro_CleanArq_Mobile.pdf| Clean_Mobile_Architecture_Petros_Efthymiou]] — *Petros Efthymiou*
 
 ### Domain-Driven Design (DDD)
-- 🧩 ![[Principles_Practices_and_Practices_of_DDD_Millett.pdf]] — *Scott Millett & Nick Tune*
-- 🧩 ![[Hands_On_Domain_Driven_Design_Michael_Plod.pdf]] — *Michael Plöd*
+- 🧩 [[01_2015_Scott Millett, Nick Tune - Patterns, Principles and Practices of Domain-Driven Design-Wrox.pdf|Principles_Practices_and_Practices_of_DDD_Millett]] — *Scott Millett & Nick Tune*
+- 🧩 [[01_DDD by example.pdf| Hands_On_Domain_Driven_Design_Michael_Plod]] — *Michael Plöd*
 
 ### Testing, Refactoring e Inyección de Dependencias
-- 🧪 ![[Unit_Testing_Principles_Practices_Patterns_Khorikov.pdf]] — *Vladimir Khorikov*
+- 🧪 [[01_2020_unit_testing.pdf| Unit_Testing_Principles_Practices_Patterns_Khorikov]] — *Vladimir Khorikov*
 - 🧪 ![[Growing_Object_Oriented_Software_Guided_by_Tests_Freeman.pdf]] — *Steve Freeman & Nat Pryce*
-- 🧪 ![[Effective_Software_Testing_Mauricio_Aniche.pdf]] — *Mauricio Aniche*
+- 🧪 [[Mauricio Aniche - Effective Software Testing_ A developer's guide-Manning (2022).pdf| Effective_Software_Testing_Mauricio_Aniche]] — *Mauricio Aniche*
 - 🧪 ![[Refactoring_Improving_Design_Existing_Code_Fowler.pdf]] — *Martin Fowler*
-- 🧪 ![[Dependency_Injection_Principles_Practices_Patterns_Seemann.pdf]] — *Steven Van Deursen & Mark Seemann*
+- 🧪[[08_2019_Mark Seemann, Steven van Deursen - Dependency Injection Principles, Practices, and Patterns.pdf| Dependency_Injection_Principles_Practices_Patterns_Seemann]]  — *Steven Van Deursen & Mark Seemann*
 
 ---
 
@@ -39,12 +39,12 @@ Aquí tienes el inventario completo de la bibliografía del semestre. Asegúrate
 - **SOLID Fundamentos:**
 	- ![[Clean_Architecture_Robert_Martin.pdf]] — Capítulos 7 al 11 (Anatomía detallada de SRP, OCP, LSP, ISP, DIP).
 	- *Nota: Prácticamente todos los autores del catálogo dedican capítulos iniciales a estos principios.*
-- **Modelado Estructural con UML:**
-	- ![[UML_y_Patrones_Craig_Larman.pdf]] — Capítulos clave asignados para el diseño y diagramación de clases y secuencias.
-	- **Asignación específica (Semana 4):** Leer Capítulo 8, Sección 8.4 (Pág. 195).
-- **Patrones de Diseño (Creacionales, Estructurales y de Comportamiento):**
+	- **Modelado Estructural con UML:**
+	-  [[Larman, Craig - Applying UML and patterns_ an introduction to object-oriented analysis and design and the unified proces (2016, Prentice Hall) - libgen.li.pdf#page=218| Larman,craig - Applying Uml... Cap 8,4 ]] — Capítulos clave asignados para el diseño y diagramación de clases y secuencias.
+	
+	- **Patrones de Diseño (Creacionales, Estructurales y de Comportamiento):**
 	- ![[Adaptive_Code_Gary_McLean_Hall.pdf]] — Patrones aplicados bajo enfoques ágiles.
-	- ![[Introduccion_Patrones_Diseno_Oscar_Blancarte.pdf]] — Lectura guía complementaria de patrones.
+	- [[Introduccion_patrones_diseño.pdf|iIntroduccion_Patrones_Diseno_Oscar_Blancarte]] — Lectura guía complementaria de patrones.
 	- ![[Design_Patterns_GoF.pdf]] — Documentación formal y catálogo de referencia de la "Gang of Four".
 
 ### 🏛️ Unidad 2: Patrones Arquitectónicos (Semana 7)
