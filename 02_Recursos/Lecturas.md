@@ -6,17 +6,16 @@
 ---
 
 ## 📑 Catálogo General de Libros (Bifurcación Local)
-
 Aquí tienes el inventario completo de la bibliografía del semestre. Asegúrate de nombrar tus archivos PDF tal como aparecen entre los corchetes dobles:
 
 ### Principios, Patrones y UML
-- 📘 ![[Adaptive_Code_Gary_McLean_Hall.pdf]] — *Gary McLean Hall*
-- 📘 [[Larman, Craig - Applying UML and patterns_ an introduction to object-oriented analysis and design and the unified proces (2016, Prentice Hall) - libgen.li.pdf| Larman, Craig - Applying UML and patterns_]] — *Craig Larman*
+- 📘 [[adaptive-code-agile-coding-with-design-patterns-and-solid-principles-2nbsped-2016936931-9781509302581_compress.pdf|Adaptive_Code_Gary_McLean_Hall]] — *Gary McLean Hall*
+- 📘 [[Larman, Craig - Applying UML and patterns_ an introduction to object-oriented analysis and design and the unified proces (2016, Prentice Hall) - libgen.li.pdf|Larman, Craig - Applying UML and patterns]] — *Craig Larman*
 - 📘 [[Introduccion_patrones_diseño.pdf |Introduccion_Patrones_Diseno_Oscar_Blancarte]] — *Oscar Blancarte*
-- 📘 ![[Design_Patterns_GoF.pdf]] — *Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides*
+- 📘 [[Design_Patterns_GoF.pdf]] — *Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides*
 
 ### Arquitectura de Software
-- 🏛️ ![[Clean_Architecture_Robert_Martin.pdf]] — *Robert C. Martin*
+- 🏛️ [[Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf|Clean_Architecture_Robert_Martin]] — *Robert C. Martin*
 - 🏛️ ![[Clean_Architecture_with_NET_Dino_Esposito.pdf]] — *Dino Esposito*
 - 🏛️ [[Libro_CleanArq_Mobile.pdf| Clean_Mobile_Architecture_Petros_Efthymiou]] — *Petros Efthymiou*
 
@@ -37,19 +36,19 @@ Aquí tienes el inventario completo de la bibliografía del semestre. Asegúrate
 
 ### 🛠️ Unidad 1: OOP, SOLID y Patrones Clásicos (Semanas 3 a 5)
 - **SOLID Fundamentos:**
-	- ![[Clean_Architecture_Robert_Martin.pdf]] — Capítulos 7 al 11 (Anatomía detallada de SRP, OCP, LSP, ISP, DIP).
+	-  [[Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf#page=64|Clean_Architecture_Robert_Martin]] — Capítulos 7 al 11 (Anatomía detallada de SRP, OCP, LSP, ISP, DIP).
 	- *Nota: Prácticamente todos los autores del catálogo dedican capítulos iniciales a estos principios.*
 	- **Modelado Estructural con UML:**
 	-  [[Larman, Craig - Applying UML and patterns_ an introduction to object-oriented analysis and design and the unified proces (2016, Prentice Hall) - libgen.li.pdf#page=218| Larman,craig - Applying Uml... Cap 8,4 ]] — Capítulos clave asignados para el diseño y diagramación de clases y secuencias.
-	
-	- **Patrones de Diseño (Creacionales, Estructurales y de Comportamiento):**
-	- ![[Adaptive_Code_Gary_McLean_Hall.pdf]] — Patrones aplicados bajo enfoques ágiles.
+
+- **Patrones de Diseño (Creacionales, Estructurales y de Comportamiento):**
+	- [[adaptive-code-agile-coding-with-design-patterns-and-solid-principles-2nbsped-2016936931-9781509302581_compress.pdf|Adaptive_Code_Gary_McLean_Hall]] — Patrones aplicados bajo enfoques ágiles.
 	- [[Introduccion_patrones_diseño.pdf|iIntroduccion_Patrones_Diseno_Oscar_Blancarte]] — Lectura guía complementaria de patrones.
-	- ![[Design_Patterns_GoF.pdf]] — Documentación formal y catálogo de referencia de la "Gang of Four".
+	- [[Design_Patterns_GoF.pdf]] — Documentación formal y catálogo de referencia de la "Gang of Four".
 
 ### 🏛️ Unidad 2: Patrones Arquitectónicos (Semana 7)
 - **Estructuración en Capas, Hexagonal y Clean:**
-	- ![[Clean_Architecture_Robert_Martin.pdf]] — Capítulos 15, 17, 18, 22, 24, 25 y 28 (La Regla de Dependencias y desacoplamiento de componentes).
+	-  [[Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf#page=116|Clean_Architecture_Robert_Martin]]  — Capítulos 15, 17, 18, 22, 24, 25 y 28 (La Regla de Dependencias y desacoplamiento de componentes).
 	- ![[Clean_Architecture_with_NET_Dino_Esposito.pdf]] — Capítulos 1 al 3 (Implementación práctica de la semántica de capas).
 	- ![[Adaptive_Code_Gary_McLean_Hall.pdf]] — Capítulo 3 (Arquitectura y cohesión de código).
 	- ![[Clean_Mobile_Architecture_Petros_Efthymiou.pdf]] — Capítulos 14, 15, 16 y 19 (Casos de estudio específicos para plataformas móviles).

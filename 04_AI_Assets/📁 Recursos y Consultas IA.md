@@ -8,11 +8,11 @@
 ## 🏛️ Arquitectura y Diseño de Software
 
 ### 📄 Explicaciones y PDFs Concretos
-- 📦 [[IA_Explicacion_Regla_Dependencia]] -> *Análisis conceptual sobre cómo estructurar el flujo de dependencias hacia el núcleo del sistema.*
-- 📦 [[Architectural_Forensics.pdf]] -> *Estudio y desglose de errores arquitectónicos comunes, antipatrones y fallas de diseño.*
+- 📦 ![[IA_Explicacion_Regla_Dependencia]] -> *Análisis conceptual sobre cómo estructurar el flujo de dependencias hacia el núcleo del sistema.*
+- 📦 ![[Architectural_Forensics.pdf]] -> *Estudio y desglose de errores arquitectónicos comunes, antipatrones y fallas de diseño.*
 
 ### 🖼️ Recursos Visuales (Imágenes / Diagramas)
-- 📊 [[04_Material_IA/|Agregar Imagen/Diagrama]] -> *Descripción de lo que ilustra este recurso visual si el PDF incluye esquemas.*
+- 📊 ![[Diagrama_Capas_Arquitectura.png]] Arquitectura de Capas e Inversión de Dependencias]] -> *Mapa conceptual que ilustra los límites entre el núcleo (Dominio/Aplicación) y el exterior (Infraestructura).*
 
 ### ❓ Dudas Concretas Resueltas (NotebookLM Insights)
 > [!question] Escribe aquí la duda concreta consultada a la IA sobre estos documentos
