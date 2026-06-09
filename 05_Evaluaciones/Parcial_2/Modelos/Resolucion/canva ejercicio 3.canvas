@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"e4b49bb0fe634635","x":1181,"y":110,"width":400,"height":130,"type":"text","text":"Contenedores :\nVolumenMaximo\nRangoTemperaturaOperativo\nstado (ej. DISPONIBLE, EN_TRANSITO, EN_MANTENIMIENTO, COMPROMETIDO"},
+		{"id":"b56e2b62eedd8b57","x":1381,"y":300,"width":250,"height":60,"type":"text","text":"Sensores"},
+		{"id":"9c53cedad21e5591","x":2021,"y":80,"width":250,"height":60,"type":"text","text":"if lectura is out RANGOTempObj"},
+		{"id":"73e023a9286f1ae6","x":2021,"y":175,"width":250,"height":60,"type":"text","text":"ALL=COMPROMETIDO"},
+		{"id":"d98595f2420f4f14","x":955,"y":440,"width":250,"height":60,"type":"text","text":"envio CREADO"},
+		{"id":"60a2e527c73ca7d5","x":1411,"y":380,"width":250,"height":60,"type":"text","text":"entidad, tiene su indentificardor y\n su tipo "},
+		{"id":"523db647f027f232","x":1771,"y":335,"width":250,"height":90,"type":"text","text":"lectura del sensor es un valueobject, porque se rige unicamentee "},
+		{"id":"8d809bdad0f0f7a0","x":1256,"y":520,"width":250,"height":60,"type":"text","text":"contendor ADECAUADO(if vol es suf\nif rango temp, cubre, rango temp)"},
+		{"id":"d883da3dfcb408cf","x":1356,"y":640,"width":250,"height":290,"type":"text","text":"Validaciones:\nntenedor asignado sigue DISPONIBLE (no fue puesto en mantenimiento a último minuto) y (b) consultar un repositorio externo (IRegulacionesRepository)"},
+		{"id":"e25c6647a92bd121","x":1711,"y":170,"width":259,"height":110,"type":"text","text":"LecturaSensor:\nTimestamp\nTemperatura exacta"},
+		{"id":"8f5e9c9ee2478574","type":"text","text":"Envios(ordenes de transporte)","x":1205,"y":-200,"width":306,"height":60},
+		{"id":"6ce8e844e78139c9","type":"text","text":"productos farmacéuticos:\n","x":605,"y":-200,"width":250,"height":60},
+		{"id":"a4229216eb051326","x":905,"y":-260,"width":250,"height":120,"type":"text","text":"El fracaso en mantener la temperatura, aunque sea por un breve período, compromete todo"},
+		{"id":"8c567e77e164dc49","type":"text","text":"Contenedores(unid:ades de refrieraion)\n","x":855,"y":-30,"width":250,"height":60},
+		{"id":"9030badface58cd8","type":"file","file":"05_Evaluaciones/Parcial_2/Modelos/Enunciados/Enunciado_Segundo_ExamenParcial_28112025.docx (TypeScript).pdf","x":1601,"y":-400,"width":739,"height":400},
+		{"id":"22c5852ac3bcb581","x":480,"y":110,"width":250,"height":60,"type":"text","text":"Envío:\nrango de temperatura"},
+		{"id":"d51a694c027e2e33","x":561,"y":250,"width":250,"height":160,"type":"text","text":"medicamentos:\nnombre, \nun volumen y, RangoTemperatura"}
+	],
+	"edges":[
+		{"id":"bea98675f78803fb","fromNode":"a4229216eb051326","fromSide":"right","toNode":"8f5e9c9ee2478574","toSide":"left"},
+		{"id":"aa33af95a4e8c39a","fromNode":"a4229216eb051326","fromSide":"bottom","toNode":"8c567e77e164dc49","toSide":"top"},
+		{"id":"a34e7757b0198027","fromNode":"a4229216eb051326","fromSide":"left","toNode":"6ce8e844e78139c9","toSide":"right"},
+		{"id":"71fcadcc68e9a890","fromNode":"22c5852ac3bcb581","fromSide":"bottom","toNode":"d51a694c027e2e33","toSide":"top","label":"agrupa 1..*"},
+		{"id":"1ef8a51a533e9dd4","fromNode":"e4b49bb0fe634635","fromSide":"bottom","toNode":"b56e2b62eedd8b57","toSide":"top","label":"equipados"},
+		{"id":"b1e008ff6545edaf","fromNode":"b56e2b62eedd8b57","fromSide":"right","toNode":"e25c6647a92bd121","toSide":"left"},
+		{"id":"5a81b6f776cdf348","fromNode":"d98595f2420f4f14","fromSide":"bottom","toNode":"8d809bdad0f0f7a0","toSide":"left","label":"asigna a"},
+		{"id":"5fdc77de1f9c619b","fromNode":"9c53cedad21e5591","fromSide":"bottom","toNode":"73e023a9286f1ae6","toSide":"top"},
+		{"id":"984ea71e7931ae21","fromNode":"e25c6647a92bd121","fromSide":"top","toNode":"9c53cedad21e5591","toSide":"left"},
+		{"id":"b96ce9db14847249","fromNode":"8f5e9c9ee2478574","fromSide":"bottom","toNode":"22c5852ac3bcb581","toSide":"right"},
+		{"id":"dd2d630674f65a02","fromNode":"6ce8e844e78139c9","fromSide":"left","toNode":"d51a694c027e2e33","toSide":"left"},
+		{"id":"fc87279d62a272c5","fromNode":"8c567e77e164dc49","fromSide":"bottom","toNode":"e4b49bb0fe634635","toSide":"top"},
+		{"id":"580e738da3d46f2b","fromNode":"8c567e77e164dc49","fromSide":"bottom","toNode":"d98595f2420f4f14","toSide":"left"},
+		{"id":"12bb46d0b267d4dc","fromNode":"8d809bdad0f0f7a0","fromSide":"right","toNode":"d883da3dfcb408cf","toSide":"top"}
+	]
+}

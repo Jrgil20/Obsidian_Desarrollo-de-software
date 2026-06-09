@@ -1,0 +1,13 @@
+# Excluir la configuración interna de Obsidian que causa conflictos de sincronización
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/backlink.json
+.obsidian/search.json
+
+# Excluir archivos temporales o del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Opcional: Si manejas PDFs muy pesados (>100MB) que GitHub rebote, puedes descomentar la línea de abajo
+*.pdf

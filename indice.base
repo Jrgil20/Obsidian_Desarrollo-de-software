@@ -1,0 +1,17 @@
+views:
+  - type: list
+    name: Tabla
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.ext
+    sort:
+      - property: file.name
+        direction: ASC
+    markers: bullet
+    indentProperties: false
+  - type: cards
+    name: Vista
+    cardSize: 280
