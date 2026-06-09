@@ -10,4 +10,4 @@
 Thumbs.db
 
 # Opcional: Si manejas PDFs muy pesados (>100MB) que GitHub rebote, puedes descomentar la línea de abajo
-*.pdf
+# *.pdf
