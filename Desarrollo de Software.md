@@ -8,9 +8,9 @@
 ## 🗺️ Accesos Directos del Semestre
 
 > [!kanban] Navegación Rápida
-> - 📅 **[[Plan de Estudios - Diseño de Sistemas|Plan de Clases Completo]]** -> *Cronograma, entregas y evaluaciones.*
-> - 📂 **[[01_Clases/|Carpeta de Clases]]** -> *Tus apuntes diarios estructurados por semana.*
-> - 📚 **[[02_Recursos/Lecturas/|Carpeta de Lecturas (PDFs)]]** -> *Libros oficiales de Larman, Robert C. Martin, Fowler, etc.*
+> - 📅 **[[Plan de clases]]** -> *Cronograma, entregas y evaluaciones.*
+> - 📂 **[[Clases|Carpeta de Clases]]** -> *Tus apuntes diarios estructurados por semana.*
+> - 📚 **[[Lecturas|Carpeta de Lecturas (PDFs)]]** -> *Libros oficiales de Larman, Robert C. Martin, Fowler, etc.*
 > - 🤖 **[[04_AI_Assets/📁 Recursos y Consultas IA|Material y Consultas de IA]]** -> *Repositorio local de PDFs, diagramas y dudas concretas extraídas.*
 > - 🧠 **[Mi NotebookLM de Desarrollo](https://notebooklm.google.com/notebook/b526e8f9-b7bd-43ff-bb52-6d36136870cb?authuser=1)** -> ⚠️ *Requiere iniciar sesión obligatoriamente con el **correo UCAB**.*
 
@@ -25,6 +25,6 @@
 ## ⚡ Flujo de Trabajo Técnico (Obsidian 🔄 NotebookLM)
 
 > [!gear] Sincronización del Sistema
-> 1. **Almacenamiento Local:** Mantén tus PDFs académicos organizados en la [[02_Recursos/Lecturas/|Carpeta de Lecturas]].
+> 1. **Almacenamiento Local:** Mantén tus PDFs académicos organizados en la [[02_Recursos/Lecturas|Carpeta de Lecturas]].
 > 2. **Consulta Avanzada:** Haz clic en el enlace de **[NotebookLM](https://notebooklm.google.com/notebook/b526e8f9-b7bd-43ff-bb52-6d36136870cb?authuser=1)** para abrir tu entorno web en el navegador, donde puedes interrogar a los libros de texto, generar guías de estudio o escuchar resúmenes conceptuales.
-> 3. **Consolidación:** Las respuestas clave o estructuras de código que extraigas de la IA, cásalas e incorpóralas dentro de tus apuntes Markdown en la carpeta de [[01_Clases/|Clases]].
+> 3. **Consolidación:** Las respuestas clave o estructuras de código que extraigas de la IA, cásalas e incorpóralas dentro de tus apuntes Markdown en la carpeta de [[Clases|Clases]].
